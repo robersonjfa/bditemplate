@@ -1,2 +1,4 @@
 # bditemplate
 repositório exemplo
+
+*teste*
